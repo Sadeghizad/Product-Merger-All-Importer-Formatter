@@ -1,5 +1,5 @@
 # 🛠️ Product Merger & All Importer Formatter
-
+![alt text](https://s6.uupload.ir/files/chatgpt_image_may_28,_2025,_05_38_39_pm_jkzi.png "Logo")
 This Python project automates the **merging, formatting, and exporting** of product data for WordPress/WooCommerce **All Importer** tools.
 
 It takes an initial raw Excel file (e.g., `products.xlsx`), processes it fully in one run, and outputs:
